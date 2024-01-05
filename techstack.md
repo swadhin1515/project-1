@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 swadhin1515/project-1 is built on the following main stack:
+
 - [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - [Chartio](https://chartio.com) – Business Intelligence
 - [Coveralls](https://coveralls.io/) – Code Coverage
@@ -67,11 +68,13 @@ swadhin1515/project-1 is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 swadhin1515/project-1 is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/5/default_aa447805966bbb635af0d113e93e1f1030497052.jpg' alt='Segment'/> [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
 - <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
@@ -137,14 +140,15 @@ swadhin1515/project-1 is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [swadhin1515/project-1](https://github.com/swadhin1515/project-1)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|458<br/>Tools used|11/10/23 <br/>Report generated|
+|463<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -809,9 +813,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (381)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (386)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (381)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (386)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -895,6 +899,7 @@ Full tech stack [here](/techstack.md)
 |[chai-as-promised](https://www.npmjs.com/chai-as-promised)|v7.1.1|04/11/23|swadhin1515 |WTFPL|N/A|
 |[chai-string](https://www.npmjs.com/chai-string)|v1.3.0|04/11/23|swadhin1515 |MIT|N/A|
 |[chai-subset](https://www.npmjs.com/chai-subset)|v1.6|04/11/23|swadhin1515 |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v4.1.2|04/11/23|swadhin1515 |MIT|N/A|
 |[chokidar](https://www.npmjs.com/chokidar)|v3.5.3|04/11/23|swadhin1515 |MIT|N/A|
 |[cli](https://www.npmjs.com/cli)|N/A|04/11/23|swadhin1515 |MIT|N/A|
 |[clone](https://www.npmjs.com/clone)|N/A|04/11/23|swadhin1515 |MIT|N/A|
@@ -965,7 +970,7 @@ Full tech stack [here](/techstack.md)
 |[express](https://www.npmjs.com/express)|v4.18.2|04/11/23|swadhin1515 |MIT|N/A|
 |[express-session](https://www.npmjs.com/express-session)|v1.17.2|04/11/23|swadhin1515 |MIT|N/A|
 |[extend](https://www.npmjs.com/extend)|v3.0.2|04/11/23|swadhin1515 |MIT|N/A|
-|[fast-xml-parser](https://www.npmjs.com/fast-xml-parser)|v4.0.11|04/11/23|swadhin1515 |MIT|[CVE-2023-26920](https://github.com/advisories/GHSA-x3cc-x39p-42qx) (High)<br/>[CVE-2023-34104](https://github.com/advisories/GHSA-6w63-h3fj-q4vw) (High)|
+|[fast-xml-parser](https://www.npmjs.com/fast-xml-parser)|v4.0.11|04/11/23|swadhin1515 |MIT|[CVE-2023-34104](https://github.com/advisories/GHSA-6w63-h3fj-q4vw) (High)<br/>[CVE-2023-26920](https://github.com/advisories/GHSA-x3cc-x39p-42qx) (Moderate)|
 |[ffi](https://www.npmjs.com/ffi)|N/A|04/11/23|swadhin1515 |MIT|N/A|
 |[figures](https://www.npmjs.com/figures)|v1.4.0|04/11/23|swadhin1515 |MIT|N/A|
 |[finalhandler](https://www.npmjs.com/finalhandler)|v1.2.0|04/11/23|swadhin1515 |MIT|N/A|
@@ -995,6 +1000,7 @@ Full tech stack [here](/techstack.md)
 |[http-errors](https://www.npmjs.com/http-errors)|v2.0.0|04/11/23|swadhin1515 |MIT|N/A|
 |[https](https://www.npmjs.com/https)|N/A|04/11/23|swadhin1515 |ISC|N/A|
 |[https-proxy-agent](https://www.npmjs.com/https-proxy-agent)|v5.0.1|04/11/23|swadhin1515 |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v0.14.3|04/11/23|swadhin1515 |MIT|N/A|
 |[i](https://www.npmjs.com/i)|N/A|04/11/23|swadhin1515 |MIT|N/A|
 |[iconv](https://www.npmjs.com/iconv)|N/A|04/11/23|swadhin1515 |ISC|N/A|
 |[iconv-lite](https://www.npmjs.com/iconv-lite)|v0.4.24|04/11/23|swadhin1515 |MIT|N/A|
@@ -1035,11 +1041,12 @@ Full tech stack [here](/techstack.md)
 |[kue](https://www.npmjs.com/kue)|N/A|04/11/23|swadhin1515 |MIT|N/A|
 |[lab](https://www.npmjs.com/lab)|N/A|04/11/23|swadhin1515 |BSD-3-Clause|N/A|
 |[level](https://www.npmjs.com/level)|N/A|04/11/23|swadhin1515 |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v5.0.0|04/11/23|swadhin1515 |MIT|N/A|
 |[log](https://www.npmjs.com/log)|N/A|04/11/23|swadhin1515 |ISC|N/A|
 |[long](https://www.npmjs.com/long)|N/A|04/11/23|swadhin1515 |Apache-2.0|N/A|
 |[lru-cache](https://www.npmjs.com/lru-cache)|v6.0.0|04/11/23|swadhin1515 |ISC|N/A|
 |[markdown](https://www.npmjs.com/markdown)|N/A|04/11/23|swadhin1515 |MIT|N/A|
-|[marked](https://www.npmjs.com/marked)|v0.7.0|04/11/23|swadhin1515 |MIT|[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)|
+|[marked](https://www.npmjs.com/marked)|v0.7.0|04/11/23|swadhin1515 |MIT|[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)|
 |[matcha](https://www.npmjs.com/matcha)|v0.7.0|04/11/23|swadhin1515 |MIT|N/A|
 |[md5](https://www.npmjs.com/md5)|N/A|04/11/23|swadhin1515 |BSD-3-Clause|N/A|
 |[merge](https://www.npmjs.com/merge)|N/A|04/11/23|swadhin1515 |MIT|N/A|
@@ -1126,6 +1133,7 @@ Full tech stack [here](/techstack.md)
 |[safe-buffer](https://www.npmjs.com/safe-buffer)|v5.2.1|04/11/23|swadhin1515 |MIT|N/A|
 |[safe-publish-latest](https://www.npmjs.com/safe-publish-latest)|v1.1.4|04/11/23|swadhin1515 |MIT|N/A|
 |[seedrandom](https://www.npmjs.com/seedrandom)|v2.4.3|04/11/23|swadhin1515 |MIT|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v18.0.0|04/11/23|swadhin1515 |MIT|[CVE-2022-31051](https://github.com/advisories/GHSA-x2pg-mjhr-2m5x) (Moderate)|
 |[send](https://www.npmjs.com/send)|v0.18.0|04/11/23|swadhin1515 |MIT|N/A|
 |[serve](https://www.npmjs.com/serve)|N/A|04/11/23|swadhin1515 |MIT|N/A|
 |[serve-static](https://www.npmjs.com/serve-static)|v1.15.0|04/11/23|swadhin1515 |MIT|N/A|
@@ -1153,6 +1161,7 @@ Full tech stack [here](/techstack.md)
 |[tar](https://www.npmjs.com/tar)|N/A|04/11/23|swadhin1515 |ISC|N/A|
 |[temp](https://www.npmjs.com/temp)|N/A|04/11/23|swadhin1515 |MIT|N/A|
 |[tempy](https://www.npmjs.com/tempy)|v0.3.0|04/11/23|swadhin1515 |MIT|N/A|
+|[test](https://www.npmjs.com/test)|N/A|04/11/23|swadhin1515 |MIT|N/A|
 |[text-encoding](https://www.npmjs.com/text-encoding)|N/A|04/11/23|swadhin1515 |Unlicense,Apache-2.0|N/A|
 |[text-table](https://www.npmjs.com/text-table)|v0.2.0|04/11/23|swadhin1515 |MIT|N/A|
 |[tmp](https://www.npmjs.com/tmp)|v0.2.1|04/11/23|swadhin1515 |MIT|N/A|
@@ -1200,4 +1209,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
