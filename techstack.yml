@@ -2,7 +2,7 @@ repo_name: swadhin1515/project-1
 report_id: 43850d8f25d8f75408e17e664adc790c
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:01:53+00:00'
+timestamp: '2024-02-29T18:32:48+00:00'
 requested_by: swadhin1515
 provider: github
 branch: main
@@ -140,7 +140,7 @@ tools:
   last_updated_by: swadhin1515
   last_updated_on: 2023-04-11 07:40:48.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   open_source: true
   hosted_saas: false
@@ -203,7 +203,7 @@ tools:
   last_updated_by: swadhin1515
   last_updated_on: 2023-04-11 07:40:48.000000000 Z
 - name: Mentat
-  description: " persistent, relational store by Mozilla"
+  description: persistent, relational store by Mozilla
   website_url: https://mozilla.github.io/mentat
   license: Apache-2.0
   open_source: true
@@ -436,7 +436,7 @@ tools:
   last_updated_by: swadhin1515
   last_updated_on: 2023-04-11 07:40:48.000000000 Z
 - name: Monit
-  description: 'A free, open-source process supervision tool '
+  description: A free, open-source process supervision tool
   website_url: https://mmonit.com
   open_source: false
   hosted_saas: false
@@ -485,7 +485,7 @@ tools:
   last_updated_by: swadhin1515
   last_updated_on: 2023-04-11 07:40:48.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.0.5
   license: MIT
@@ -549,7 +549,7 @@ tools:
   last_updated_by: swadhin1515
   last_updated_on: 2023-04-11 07:40:48.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 6.3.0
   license: MIT
@@ -3065,12 +3065,6 @@ tools:
   last_updated_by: swadhin1515
   last_updated_on: 2023-04-11 07:40:48.000000000 Z
   vulnerabilities:
-  - name: fast-xml-parser vulnerable to Regex Injection via Doctype Entities
-    cve_id: CVE-2023-34104
-    cve_url: https://github.com/advisories/GHSA-6w63-h3fj-q4vw
-    detected_date: Jun 7
-    severity: high
-    first_patched: 4.2.4
   - name: fast-xml-parser vulnerable to Prototype Pollution through tag or attribute
       name
     cve_id: CVE-2023-26920
